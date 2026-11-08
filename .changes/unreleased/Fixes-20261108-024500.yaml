@@ -1,0 +1,7 @@
+kind: Fixes
+body: Report the warehouse environment variables the suite depends on when functional
+    tests start, so failing matrix entries can be triaged without a second run
+time: 2026-11-08T02:45:00.000000+08:00
+custom:
+    Author: mini555-gif
+    Issue: "0"
